@@ -1,7 +1,7 @@
 """
 tttttttt
 ddddd
-eeeee
+
 """
 
 # 读写方式
